@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PureHeart", "PureHeart\PureHeart.csproj", "{A7CF720A-06BA-4E55-BB04-4E940B7549F6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A7CF720A-06BA-4E55-BB04-4E940B7549F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7CF720A-06BA-4E55-BB04-4E940B7549F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7CF720A-06BA-4E55-BB04-4E940B7549F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7CF720A-06BA-4E55-BB04-4E940B7549F6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {82DF8DBB-434F-4BD8-A306-ADD9D1B63D28}
+	EndGlobalSection
+EndGlobal
